@@ -3,3 +3,6 @@ locale = 'en-us'
 title = 'Organic Stupidity'
 theme = 'PaperMod'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
