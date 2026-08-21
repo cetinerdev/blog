@@ -1,0 +1,5 @@
+baseURL = "https://cetiner.dev/"
+locale = 'en-us'
+title = 'Organic Stupidity'
+theme = 'PaperMod'
+
